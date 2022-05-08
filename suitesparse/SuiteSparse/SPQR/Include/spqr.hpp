@@ -24,7 +24,7 @@
 // typedef std::complex<double> Complex ;
 
 #include <complex.h>
-typedef double complex Complex;
+typedef double _Complex Complex;
 
 // -----------------------------------------------------------------------------
 // debugging and printing control
